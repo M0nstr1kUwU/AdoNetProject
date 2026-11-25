@@ -1,0 +1,12 @@
+# Visual Studio and .NET
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+
+# Local SQLite files and delivery archives
+*.db
+*.db-*
+*.bundle
+*.zip
